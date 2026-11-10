@@ -34,3 +34,7 @@ Thumbs.db
 
 # Docker volumes
 docker-compose.override.yml
+
+# Claude Code files
+.claude/
+.claude-cache/
